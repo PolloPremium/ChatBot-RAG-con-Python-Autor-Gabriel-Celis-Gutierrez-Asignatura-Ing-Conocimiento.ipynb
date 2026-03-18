@@ -113,6 +113,8 @@ Carga todas las herramientas necesarias para el funcionamiento del programa.
 ## RESULTADO FINAL
 
 Este proyecto permite:
+
+
 <img width="792" height="478" alt="image" src="https://github.com/user-attachments/assets/699bee07-5020-43a2-8614-781eaf2b2dd7" />
 <img width="803" height="217" alt="image" src="https://github.com/user-attachments/assets/f335358a-5f80-48e4-9ab1-b7d5cde69a86" />
 
